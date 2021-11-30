@@ -1,0 +1,30 @@
+let resume ={
+    Name: "Pooja",
+    Email: "poojarajuthamarai@gmail.com",
+    Education:[
+        {
+            year:"2013-2017",
+            institute:"St.Jospeh Institute Of Technology",
+            specialization:"BE.EEE",
+            percentage:"80%"
+        },
+        {
+            year:"2012-2013",
+            institute:"Holy Prince Matriculation Higher Secondary School",
+            specialization:"HSC",
+            percentage:"94.2%"
+        },
+        {
+            year:"2012-2013",
+            institute:"Holy Prince Matriculation Higher Secondary School",
+            specialization:"SSLC",
+            percentage:"95.8%"
+        }
+    ],
+    management_skills:["National Level technical symposium Organizer","Member and organizer in Quiz and Math club "],
+    communication_skills:"BEC Vantage Certified",
+    coding_skills:["C","C++","Basics of Java"],
+    hobbies:["Reading Books","Playing Badminton","Solving Sudoku"]
+}
+
+console.log(resume)
